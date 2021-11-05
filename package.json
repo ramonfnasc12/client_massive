@@ -1,0 +1,11 @@
+{
+  "name": "ClientUpdate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "csv-parser": "^3.0.0",
+    "moment": "^2.29.1"
+  }
+}
